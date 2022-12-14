@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+
+    font-family: 'poppins', sans-serif;
+    background-color: rgb(42, 41, 41);
+}
+
+.searchbar {
+    width: 18rem;
+    height: auto;
+    padding: 4px;
+    border-radius: 2rem;
+    background-color: #fff;
+
+}
+
+.searchbar input {
+    border-radius: 2rem;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 1rem;
+}
